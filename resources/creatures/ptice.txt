@@ -1,0 +1,5 @@
+resources/creatures/bat.png
+spell_up     3 0 0 64 64 64 0 64 64 128 0 64 64
+spell_left   3 0 64 64 64 64 64 64 64 128 64 64 64
+spell_down   3 0 128 64 64 64 128 64 64 128 128 64 64
+spell_right  3 0 192 64 64 64 192 64 64 128 192 64 64
